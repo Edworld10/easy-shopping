@@ -96,4 +96,10 @@ footer {
     color: #4CB538;
     cursor: pointer;
 }
+@media screen and (width: 900px;) {
+    header { 
+        display:none;
+    }
+    
+}
 
