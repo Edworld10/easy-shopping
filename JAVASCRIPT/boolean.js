@@ -1,0 +1,3 @@
+/*
+    BOOLEAN --> bOLEANO VARIAVEL DE  0 E 1 OU TRUE OU FALSE  
+*/

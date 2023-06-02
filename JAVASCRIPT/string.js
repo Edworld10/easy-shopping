@@ -1,0 +1,14 @@
+/*
+    1. STRINK --> TEXTOS. TEM 3 FORMAS DE USAR 
+    "TEXTOS" COM ASPAS DUPLAS"
+    'TEXTOS COM ASPAS SIMPLES'
+    `TEXTOS COM A CRASE` OBS A CRASE VOCÊ PODE PULAR LINHAS 
+    OSB A CRASE É CHAMADA DE TEMPLATE LITERALS OU TEMPLATE STRING
+    PODE 
+
+*/
+const myAge = 27
+
+const myString = `Minha idade é ${myAge} `
+
+console.log (myString)
