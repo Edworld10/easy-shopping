@@ -47,7 +47,7 @@ header {
     padding-left: 90px;
 }
 h1 {
-    font-weight: 1000;
+    font-weight: 900;
     font-size: 60px;
     line-height: 70px;
     letter-spacing: 1px;
@@ -100,7 +100,34 @@ footer {
 
    .link-header { 
         display:none;
+        
+    }
+
+    .button-hader {
+        margin-left: 220px;
     }
     
+    .logo-image {
+        margin: 250px 0px 0px 0px;
+        padding-right: 50px;
+        width: 500px;
+        height: 400px;
+    }
 }
-
+.container-1 {
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 1px;
+    color: #161A49;
+    padding-bottom: 10px;
+    
+}
+.container-2 {
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 1px;
+    color: #161A49;
+    padding-bottom: 10px;
+}
