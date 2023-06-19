@@ -8,7 +8,8 @@
 const edivan = {
     name: "edivan",
     age: 27,
-    address: {
+    address:
+     {
         street: "rua tobias ",
         number: 0,
         city: "São Paulo",
